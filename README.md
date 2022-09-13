@@ -6,7 +6,7 @@ Run the following command in the terminal to install the package:<br />
 ```pip install Topsis-Tarush-102083060```
 
 ## Importing and Using in Source File
-Run the following commands to import the package into your python file:<br />
+Use the following commands in your .py python file to import the package into your python file:<br />
 ```
 topsis = __import__('Topsis-Tarush-102083060')
 topsis.main()
